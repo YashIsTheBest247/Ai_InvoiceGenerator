@@ -27,6 +27,7 @@ JWT Authentication
 OpenAI API (for AI description generation)
 
 #**Folder Structure**
+```bash
 ai-invoice-generator/
 │
 ├── backend/
@@ -44,7 +45,7 @@ ai-invoice-generator/
 │   └── package.json
 │
 └── README.md
-
+```
 🧠 How AI Works
 User enters:
 Service/Product Name
